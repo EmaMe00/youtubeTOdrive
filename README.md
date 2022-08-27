@@ -1,5 +1,5 @@
 # Requisition
-The library uses in this script is pytube and pydrive. 
+This library used in this script is pytube and pydrive. 
 You can download and read documentantion from:
 Pydrive: https://pythonhosted.org/PyDrive/
 Pytube: https://pytube.io/en/latest/
