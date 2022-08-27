@@ -20,9 +20,13 @@ Drive API requires OAuth2.0 for authentication. PyDrive makes your life much eas
 4 - Now, the product name and consent screen need to be set -> click ‘Configure consent screen’ and follow the instructions. Once finished:
 
       a) Select ‘Application type’ to be Web application.
+      
       b) Enter an appropriate name.
+      
       c) Input http://localhost:8080 for ‘Authorized JavaScript origins’.
+      
       d) Input http://localhost:8080/ for ‘Authorized redirect URIs’.
+      
       e) Click ‘Save’.
   
 Click ‘Download JSON’ on the right side of Client ID to download client_secret_<really long ID>.json.
