@@ -12,9 +12,13 @@ This is settings for your google account:
 Drive API requires OAuth2.0 for authentication. PyDrive makes your life much easier by handling complex authentication steps for you.
 
 1 - Go to APIs Console and make your own project.
+
 2 - Search for ‘Google Drive API’, select the entry, and click ‘Enable’.
+
 3 - Select ‘Credentials’ from the left menu, click ‘Create Credentials’, select ‘OAuth client ID’.
+
 4 - Now, the product name and consent screen need to be set -> click ‘Configure consent screen’ and follow the instructions. Once finished:
+
       a) Select ‘Application type’ to be Web application.
       b) Enter an appropriate name.
       c) Input http://localhost:8080 for ‘Authorized JavaScript origins’.
