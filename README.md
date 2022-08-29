@@ -33,3 +33,9 @@ Click ‘Download JSON’ on the right side of Client ID to download client_secr
 The downloaded file has all authentication information of your application. Rename the file to “client_secrets.json” and place it in your working directory.
 
 Create quickstart.py file and copy and paste the following code.
+
+I recommend installing the package: 
+pip install httplib2==0.15.0
+pip install google-api-python-client==1.6
+
+DO NOT INSTALL PYTUBE3, GIVE PROBLEM, AND IF YOU HAVE UNISTALL NOW.
