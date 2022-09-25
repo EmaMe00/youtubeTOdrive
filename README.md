@@ -39,3 +39,5 @@ pip install httplib2==0.15.0
 pip install google-api-python-client==1.6
 
 DO NOT INSTALL PYTUBE3, GIVE PROBLEM, AND IF YOU HAVE UNISTALL NOW.
+
+WARNING: window.py is the same program but have UI in Tkinter. Follow the same standard instruction but install tkinter.
